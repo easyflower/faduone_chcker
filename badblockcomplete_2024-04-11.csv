@@ -1,0 +1,2 @@
+sn,tc_loop,step_num,defect_reason,prev_pe_cycle,pe_cycle,pon_day,plane,mp_block,die,channel,cap,firmware,status,file
+09240XE0007210,0,16,PSF,1074,1072,10,2,279,1,6,894,RG109W04,change,carrera_RDT_raw_TB_240412.csv
